@@ -1,1 +1,5 @@
-{"surum": "1.0.3", "exe_url": "https://github.com/berkcoskun29-coder/it-envanter-surumler/releases/download/v1.0.3/IT-Envanter.exe", "notlar": "Güncelleme SSL sertifika düzeltmesi"}
+{
+  "surum": "1.0.4",
+  "exe_url": "https://github.com/berkcoskun29-coder/it-envanter-surumler/releases/download/v1.0.4/IT-Envanter.exe",
+  "notlar": "Bilgisayar bolumune Masaustu / Dizustu / Telefon kategori secimi eklendi"
+}
