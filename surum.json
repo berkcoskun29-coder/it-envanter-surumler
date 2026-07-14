@@ -1,5 +1,5 @@
 {
-  "surum": "1.1.1",
-  "exe_url": "https://github.com/berkcoskun29-coder/it-envanter-surumler/releases/download/v1.1.1/IT-Envanter.exe",
-  "notlar": "Duzeltmeler: bolum silinince ekipman iadesi, Excel disa/ice aktar miktar hizasi, envanter kategori adet toplami, apostroflu adlarda silme onayi"
+  "surum": "1.2.0",
+  "exe_url": "https://github.com/berkcoskun29-coder/it-envanter-surumler/releases/download/v1.2.0/IT-Envanter.exe",
+  "notlar": "Urun Hareket Gecmisi (asset timeline), Satin Alma + Garanti bilgileri, garanti/kritik stok bildirim merkezi ve Yakinda Garantisi Bitecek karti"
 }
