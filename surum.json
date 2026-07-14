@@ -1,5 +1,5 @@
 {
-  "surum": "1.0.5",
-  "exe_url": "https://github.com/berkcoskun29-coder/it-envanter-surumler/releases/download/v1.0.5/IT-Envanter.exe",
-  "notlar": "Telefon zimmetleme, arizali telefon bolumu, ekleme mesaji urun tipine gore, tutanakta dogru cins, urune uygun ikonlar"
+  "surum": "1.0.6",
+  "exe_url": "https://github.com/berkcoskun29-coder/it-envanter-surumler/releases/download/v1.0.6/IT-Envanter.exe",
+  "notlar": "Telefon detayinda islem gecmisi ve diger metinler artik telefon diyor (bilgisayar demiyor)"
 }
