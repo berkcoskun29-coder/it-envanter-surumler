@@ -1,5 +1,5 @@
 {
-  "surum": "1.6.0",
-  "exe_url": "https://github.com/berkcoskun29-coder/it-envanter-surumler/releases/download/v1.6.0/IT-Envanter.exe",
-  "notlar": "Coklu Depo (Depolar modulu + urun-depo + transfer, timeline'a islenir) ve Sarf Malzeme (miktar bazli cikis + kritik stok)"
+  "surum": "1.7.0",
+  "exe_url": "https://github.com/berkcoskun29-coder/it-envanter-surumler/releases/download/v1.7.0/IT-Envanter.exe",
+  "notlar": "Panel yenilendi (ayri tur kartlari + carousel + yeni kartlar), iki asamali kullanici silme, gelismis onarim akisi, Undo/Redo gecmisi, Hurda/Arsiv, Gelismis Arama, Envanter/Atil sadelestirme"
 }
