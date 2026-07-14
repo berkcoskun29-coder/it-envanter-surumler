@@ -1,5 +1,5 @@
 {
-  "surum": "1.8.0",
-  "exe_url": "https://github.com/berkcoskun29-coder/it-envanter-surumler/releases/download/v1.8.0/IT-Envanter.exe",
-  "notlar": "Rol Tabanli Yetkilendirme (Sistem Yoneticisi/Bilgi Islem/Depo Sorumlusu/Sadece Goruntuleme + yetki matrisi, sunucu tarafi enforcement) ve Gelismis Raporlama (9 rapor turu, PDF/Excel/CSV, tarih araligi)"
+  "surum": "1.8.1",
+  "exe_url": "https://github.com/berkcoskun29-coder/it-envanter-surumler/releases/download/v1.8.1/IT-Envanter.exe",
+  "notlar": "Yetki duzeltmesi: hurdaya ayirma artik 'silme' yetkisi gerektirir (Depo Sorumlusu gibi silme yetkisi olmayan roller urun hurdaya ayiramaz)"
 }
