@@ -1,5 +1,5 @@
 {
-  "surum": "1.8.1",
-  "exe_url": "https://github.com/berkcoskun29-coder/it-envanter-surumler/releases/download/v1.8.1/IT-Envanter.exe",
-  "notlar": "Yetki duzeltmesi: hurdaya ayirma artik 'silme' yetkisi gerektirir (Depo Sorumlusu gibi silme yetkisi olmayan roller urun hurdaya ayiramaz)"
+  "surum": "1.8.2",
+  "exe_url": "https://github.com/berkcoskun29-coder/it-envanter-surumler/releases/download/v1.8.2/IT-Envanter.exe",
+  "notlar": "Panel: üst kartlar yana kaydırılınca sol menüye binme sorunu düzeltildi."
 }
