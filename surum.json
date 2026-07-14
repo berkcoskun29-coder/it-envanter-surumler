@@ -1,5 +1,5 @@
 {
-  "surum": "1.3.0",
-  "exe_url": "https://github.com/berkcoskun29-coder/it-envanter-surumler/releases/download/v1.3.0/IT-Envanter.exe",
-  "notlar": "QR Kod ve Barkod sistemi: her urun icin QR/Code128, detayda goruntuleme, etiket PDF ciktisi ve /kod ile urune ulasma"
+  "surum": "1.4.0",
+  "exe_url": "https://github.com/berkcoskun29-coder/it-envanter-surumler/releases/download/v1.4.0/IT-Envanter.exe",
+  "notlar": "Periyodik Bakim: urunlere bakim periyodu/sonraki bakim/sorumlu, Bakim Yap aksiyonu, panelde Yaklasan Bakimlar ve bildirim; QR barkod ASCII-disi seri guvenligi"
 }
