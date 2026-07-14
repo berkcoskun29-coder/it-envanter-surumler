@@ -1,5 +1,5 @@
 {
-  "surum": "1.1.0",
-  "exe_url": "https://github.com/berkcoskun29-coder/it-envanter-surumler/releases/download/v1.1.0/IT-Envanter.exe",
-  "notlar": "Atil Urunler modulu, kategori bazli Envanter, gelismis Onarildi akisi + Ariza Gecmisi, kullanici silme onayi, yenilenen Panel (kayan kartlar + grafikler)"
+  "surum": "1.1.1",
+  "exe_url": "https://github.com/berkcoskun29-coder/it-envanter-surumler/releases/download/v1.1.1/IT-Envanter.exe",
+  "notlar": "Duzeltmeler: bolum silinince ekipman iadesi, Excel disa/ice aktar miktar hizasi, envanter kategori adet toplami, apostroflu adlarda silme onayi"
 }
