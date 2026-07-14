@@ -1,5 +1,5 @@
 {
-  "surum": "1.4.0",
-  "exe_url": "https://github.com/berkcoskun29-coder/it-envanter-surumler/releases/download/v1.4.0/IT-Envanter.exe",
-  "notlar": "Periyodik Bakim: urunlere bakim periyodu/sonraki bakim/sorumlu, Bakim Yap aksiyonu, panelde Yaklasan Bakimlar ve bildirim; QR barkod ASCII-disi seri guvenligi"
+  "surum": "1.5.0",
+  "exe_url": "https://github.com/berkcoskun29-coder/it-envanter-surumler/releases/download/v1.5.0/IT-Envanter.exe",
+  "notlar": "Yazilim Lisans Takibi: Lisanslar modulu (yazilim/anahtar/tur/tarih/cihaz sayisi/durum), yaklasan lisans bitisleri panel + bildirim"
 }
