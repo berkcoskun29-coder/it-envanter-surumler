@@ -1,5 +1,5 @@
 {
-  "surum": "1.7.1",
-  "exe_url": "https://github.com/berkcoskun29-coder/it-envanter-surumler/releases/download/v1.7.1/IT-Envanter.exe",
-  "notlar": "Duzeltmeler: ekipmanli kullanici silme engeli + stok sismesi giderildi; Undo/Redo artik no-op/basarisiz islemde redo dalini korur; gelismis aramada envanter sizmasi ve arsiv sizmasi giderildi; hurda urunler garanti/bakim sayaclarindan cikarildi"
+  "surum": "1.8.0",
+  "exe_url": "https://github.com/berkcoskun29-coder/it-envanter-surumler/releases/download/v1.8.0/IT-Envanter.exe",
+  "notlar": "Rol Tabanli Yetkilendirme (Sistem Yoneticisi/Bilgi Islem/Depo Sorumlusu/Sadece Goruntuleme + yetki matrisi, sunucu tarafi enforcement) ve Gelismis Raporlama (9 rapor turu, PDF/Excel/CSV, tarih araligi)"
 }
