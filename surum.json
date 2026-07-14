@@ -1,5 +1,5 @@
 {
-  "surum": "1.7.0",
-  "exe_url": "https://github.com/berkcoskun29-coder/it-envanter-surumler/releases/download/v1.7.0/IT-Envanter.exe",
-  "notlar": "Panel yenilendi (ayri tur kartlari + carousel + yeni kartlar), iki asamali kullanici silme, gelismis onarim akisi, Undo/Redo gecmisi, Hurda/Arsiv, Gelismis Arama, Envanter/Atil sadelestirme"
+  "surum": "1.7.1",
+  "exe_url": "https://github.com/berkcoskun29-coder/it-envanter-surumler/releases/download/v1.7.1/IT-Envanter.exe",
+  "notlar": "Duzeltmeler: ekipmanli kullanici silme engeli + stok sismesi giderildi; Undo/Redo artik no-op/basarisiz islemde redo dalini korur; gelismis aramada envanter sizmasi ve arsiv sizmasi giderildi; hurda urunler garanti/bakim sayaclarindan cikarildi"
 }
