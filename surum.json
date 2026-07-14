@@ -1,5 +1,5 @@
 {
-  "surum": "1.2.0",
-  "exe_url": "https://github.com/berkcoskun29-coder/it-envanter-surumler/releases/download/v1.2.0/IT-Envanter.exe",
-  "notlar": "Urun Hareket Gecmisi (asset timeline), Satin Alma + Garanti bilgileri, garanti/kritik stok bildirim merkezi ve Yakinda Garantisi Bitecek karti"
+  "surum": "1.2.1",
+  "exe_url": "https://github.com/berkcoskun29-coder/it-envanter-surumler/releases/download/v1.2.1/IT-Envanter.exe",
+  "notlar": "Duzeltme: alis fiyati Turkce bicimde (orn 1.500,50) dogru okunuyor (onceki surumde 1000 kat hatali/kayipti)"
 }
