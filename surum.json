@@ -1,5 +1,5 @@
 {
-  "surum": "1.8.3",
-  "exe_url": "https://github.com/berkcoskun29-coder/it-envanter-surumler/releases/download/v1.8.3/IT-Envanter.exe",
-  "notlar": "Yeni kurulumlar artık örnek/demo veri olmadan bomboş başlar (mevcut veriler korunur)."
+  "surum": "1.8.4",
+  "exe_url": "https://github.com/berkcoskun29-coder/it-envanter-surumler/releases/download/v1.8.4/IT-Envanter.exe",
+  "notlar": "Bilgisayar teknik ozelliklerine Ekran Karti alani eklendi."
 }
