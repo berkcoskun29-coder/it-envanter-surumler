@@ -1,5 +1,5 @@
 {
-  "surum": "1.8.2",
-  "exe_url": "https://github.com/berkcoskun29-coder/it-envanter-surumler/releases/download/v1.8.2/IT-Envanter.exe",
-  "notlar": "Panel: üst kartlar yana kaydırılınca sol menüye binme sorunu düzeltildi."
+  "surum": "1.8.3",
+  "exe_url": "https://github.com/berkcoskun29-coder/it-envanter-surumler/releases/download/v1.8.3/IT-Envanter.exe",
+  "notlar": "Yeni kurulumlar artik ornek/demo veri olmadan bombos baslar (mevcut veriler korunur)."
 }
